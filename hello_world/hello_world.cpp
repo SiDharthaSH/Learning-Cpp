@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "std_lib_facilities.hpp"
+#include "../include/std_lib_facilities.hpp"
 
 int main() {
   std::cout << "Hello, World!" << std::endl;
